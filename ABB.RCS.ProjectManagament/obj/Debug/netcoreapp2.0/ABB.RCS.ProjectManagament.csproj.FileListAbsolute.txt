@@ -1,0 +1,11 @@
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\bin\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.deps.json
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\bin\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.runtimeconfig.json
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\bin\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.runtimeconfig.dev.json
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\bin\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.dll
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\bin\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.pdb
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.csproj.CoreCompileInputs.cache
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.AssemblyInfoInputs.cache
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.AssemblyInfo.cs
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.dll
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.pdb
+E:\ABBProject\ABB.RCS.ProjectManagament\ABB.RCS.ProjectManagament\obj\Debug\netcoreapp2.0\ABB.RCS.ProjectManagament.csprojResolveAssemblyReference.cache
